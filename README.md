@@ -66,13 +66,6 @@ Currency-Convertor/
 └── README.md       # Project documentation
 ```
 
-## 🎨 Color Scheme
-
-- **Background**: Warm cream (#f4e4ba)
-- **Primary Button**: Purple (#af4d98)
-- **Hover State**: Dark purple (#82406f)
-- **Clean white cards** with subtle shadows
-
 ## 🔧 Key Features Explained
 
 ### Currency Conversion
@@ -94,25 +87,10 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👤 Author
-
-**Priyanshu124-tech**
-- GitHub: [@Priyanshu124-tech](https://github.com/Priyanshu124-tech)
-- Repository: [Currency-Convertor](https://github.com/Priyanshu124-tech/Currency-Convertor)
-
 ## ⭐ Show your support
 
 Give a ⭐️ if you like this project!
 
-## 📸 Screenshots
-
-![Currency Converter Interface](https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here)
-
-*Add a screenshot of your application here to showcase its interface*
 
 ## 🔮 Future Enhancements
 
